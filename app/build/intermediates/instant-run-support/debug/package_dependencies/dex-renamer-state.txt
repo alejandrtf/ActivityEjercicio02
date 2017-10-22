@@ -1,0 +1,4 @@
+#Fri Oct 20 13:09:11 CEST 2017
+base.0=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_618d51bcbaa960a62524f2d1a2817930dca023fb
+renamed.0=classes.dex
+file.0=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_618d51bcbaa960a62524f2d1a2817930dca023fb\\classes.dex

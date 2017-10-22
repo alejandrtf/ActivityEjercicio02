@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Oct 20 13:09:12 CEST 2017
+2.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_98aef0fcc4e43d5f91128500a2c9d7739fda6b37\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_43b6bb09d1e473bcfda1af835c5d5fd2dd7108a1\\classes.dex
+7.set=DEX
+count=9
+0.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+5.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_98aef0fcc4e43d5f91128500a2c9d7739fda6b37
+1.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_43b6bb09d1e473bcfda1af835c5d5fd2dd7108a1
+2.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+6.set=DEX
+0.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_ciclo_vida.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\ActivityEjercicio02\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

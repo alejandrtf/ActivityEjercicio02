@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sandra\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioProjects\ActivityEjercicio02\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_618d51bcbaa960a62524f2d1a2817930dca023fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ActivityEjercicio02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dff47558e3ea0ec1da2b7cd96fca911299adae4">
+        <dex dex="D:\AndroidStudioProjects\ActivityEjercicio02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_98aef0fcc4e43d5f91128500a2c9d7739fda6b37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\ActivityEjercicio02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\ActivityEjercicio02\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_43b6bb09d1e473bcfda1af835c5d5fd2dd7108a1\classes.dex" />
+    </item>
+
+</items>
